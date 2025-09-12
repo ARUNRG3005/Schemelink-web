@@ -1,0 +1,5 @@
+{
+  "name": "SchemeLink",
+  "description": "A web application to help users discover and apply for government schemes. It features multilingual support, search and filtering, and a document upload simulation.",
+  "requestFramePermissions": []
+}
